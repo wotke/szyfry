@@ -8,3 +8,4 @@ string output = Szyfr_ascii.gaderypoluki_cypher(text);
 //wypisujemy wynik
 
 Console.WriteLine("Zaszyfrowany tekst: " + output);
+//output to jest ten zaszyfrowany ciag znakow
